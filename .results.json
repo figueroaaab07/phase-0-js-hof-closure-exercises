@@ -5,9 +5,9 @@
     "passes": 19,
     "pending": 0,
     "failures": 0,
-    "start": "2022-03-26T03:35:22.496Z",
-    "end": "2022-03-26T03:35:22.664Z",
-    "duration": 168
+    "start": "2022-04-01T01:24:22.195Z",
+    "end": "2022-04-01T01:24:22.359Z",
+    "duration": 164
   },
   "tests": [
     {
@@ -27,7 +27,7 @@
     {
       "title": "applies calback to all elements in the new array",
       "fullTitle": "index.js map applies calback to all elements in the new array",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -83,7 +83,7 @@
     {
       "title": "returns false if the callback doesn't return true for the majority of elements",
       "fullTitle": "index.js majority returns false if the callback doesn't return true for the majority of elements",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -118,7 +118,7 @@
     {
       "title": "returns an object",
       "fullTitle": "index.js groupBy returns an object",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -139,7 +139,7 @@
     {
       "title": "object has original array elements as keys and the result of the callback as values",
       "fullTitle": "index.js arrayToObject object has original array elements as keys and the result of the callback as values",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     }
@@ -164,7 +164,7 @@
     {
       "title": "applies calback to all elements in the new array",
       "fullTitle": "index.js map applies calback to all elements in the new array",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -220,7 +220,7 @@
     {
       "title": "returns false if the callback doesn't return true for the majority of elements",
       "fullTitle": "index.js majority returns false if the callback doesn't return true for the majority of elements",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -255,7 +255,7 @@
     {
       "title": "returns an object",
       "fullTitle": "index.js groupBy returns an object",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -276,7 +276,7 @@
     {
       "title": "object has original array elements as keys and the result of the callback as values",
       "fullTitle": "index.js arrayToObject object has original array elements as keys and the result of the callback as values",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     }
